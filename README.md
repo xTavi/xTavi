@@ -1,6 +1,8 @@
 <h1 align="center">Hi There! 👋, I'm Tavi 💻</h1>
 <h3 align="center">A Computer Science graduate student and a Full-Stack Web Developer</h3> 
 <h3 align="center"> Currently working with Angular <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fangular-logo%2F169595&psig=AOvVaw2LGwniFG0_bYYEnMTDxNaD&ust=1623805742912000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjU2fW5mPECFQAAAAAdAAAAABAN'> and NestJS. I’m passionate about learning new technologies.</h3>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#C4473A" d="M52.864 64h23.28l-12.375-25.877zM63.81 1.026l-59.257 20.854 9.363 77.637 49.957 27.457 50.214-27.828 9.36-77.635-59.637-20.485zm-15.766 73.974l-7.265 18.176-13.581.056 36.608-81.079-.07-.153h-.064l.001-.133.063.133h.14100000000000001l.123-.274v.274h-.124l-.069.153 38.189 81.417-13.074-.287-8.042-18.58-17.173.082"/></svg>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xTavi" alt="xTavi" /> </p> -->
 
