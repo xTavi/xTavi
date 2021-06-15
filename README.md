@@ -29,13 +29,14 @@
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tavi-constantin-3602601b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-orange?style=flat&logo=instagram&labelColor=white)](https://www.linkedin.com/in/tavi-constantin-3602601b3/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTavi&show_icons=true&theme=tokyonight)](l)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTavi&show_icons=true&theme=tokyonight)](#)
 
 
 <!-- Profile viewers <p align="right" display="flex"> <img src="https://komarev.com/ghpvc/?username=xTavi" alt="xTavi" /> </p> -->
 <!-- This is a little note from me, Tavi. I will paste here some useful links I used when I created my portofolio. I hope they will help you:
 [1].  https://github.com/coderjojo/creative-profile-readme    ---- A list of profiles ( more than 100 ) Thank me later 😉
 [2].  https://github.com/devicons/devicon                     ---- A lot of icons special for your profile needs
+[3].  https://shields.io/                                     ---- Shields used for my contact section
 -->
