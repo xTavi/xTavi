@@ -15,15 +15,15 @@
 
 <!--- 🔭 I’m currently working on [](https://github.com/xTavi/)-->
 
-- 🌱 I’m currently learning **Angular Best Practices and I am aiming to become a Senior Developer**
+- 🌱  I’m currently learning **Angular Best Practices and I am aiming to become a Senior Developer**
 
-- 🕵️ I’m looking to collaborate on **multiple projects, so don't hesitate to contact me!**
+- 🕵️  I’m looking to collaborate on **multiple projects, so don't hesitate to contact me!**
 
-- 💬 Ask me anything about **Angular, Javascript or NodeJs**
+- 💬  Ask me anything about **Angular, Javascript or NodeJs**
 
-- ✉️ How to reach me **tavitavi62@gmail.com**
+- ✉️  How to reach me **tavitavi62@gmail.com**
 
-- 🤯 Fun fact **I always search for "how to center a div"**
+- 🤯  Fun fact **I always search for "how to center a div"**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
