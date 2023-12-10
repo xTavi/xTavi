@@ -32,7 +32,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-808080?style=flat&logo=instagram&labelColor=white)](https://www.instagram.com/taviconstantin/)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=white)](https://stackoverflow.com/users/10672024/tavi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTavi&show_icons=true&theme=tokyonight)](#)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTavi&show_icons=true&theme=tokyonight)](#) -->
 
 
 <!-- Profile viewers <p align="right" display="flex"> <img src="https://komarev.com/ghpvc/?username=xTavi" alt="xTavi" /> </p> -->
